@@ -33,6 +33,8 @@ Software/Language used:
 
 Methodolgy (System Workout and control)
 
-The system uses 4 buttons for all setup and one button for Home selection and Alarm mode selection. one of the button is used for Date and time button while one is also used for Alarm setup and the remaining two buttons were for Increment and decrement and also as Relay Status control when not in setup mode. the home buttons can be used to disable/enable the alarm for the Buzzer to beep or remain silent. beside the box was a connector which is well labelled for the connect of the relay and the load to be connected to the system. other information can be derived from the video.
+The system uses 4 buttons for all setup and one button for Home selection and Alarm mode selection. one of the button is used for Date and time button while one is also used for Alarm setup and the remaining two buttons were for Increment and decrement and also as Relay Status control when not in setup mode. the home buttons can be used to disable/enable the alarm for the Buzzer to beep or remain silent. beside the box was a connector which is well labelled for the connect of the relay and the load to be connected to the system. 
+
+other information can be derived from the video with the video link below.
 
 
