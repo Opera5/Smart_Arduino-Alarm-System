@@ -37,4 +37,6 @@ The system uses 4 buttons for all setup and one button for Home selection and Al
 
 other information can be derived from the video with the video link below.
 
+[Aduino Alarm Box Test Video](https://youtu.be/qcJpqtmau-E)
 
+Subscribe, Like, and click Notification
